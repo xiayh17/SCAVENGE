@@ -25,8 +25,7 @@ Imports:
     parallel,
     Matrix,
     irlba,
-    SummarizedExperiment,
-    gchromVAR
+    SummarizedExperiment
 Suggests: 
     utils,
     dplyr,
@@ -39,7 +38,6 @@ Suggests:
     methods,
     BiocParallel,
     BiocStyle,
-    chromVAR, 
     GenomicRanges,
     S4Vectors,
     BuenColors,
